@@ -1,0 +1,19 @@
+com/example/bmicalculator/BuildConfig.java
+ com.example.bmicalculator.BuildConfig
+com/example/bmicalculator/BMI.java
+ com.example.bmicalculator.BMI
+com/example/bmicalculator/MainActivity2.java
+ com.example.bmicalculator.MainActivity2
+ com.example.bmicalculator.MainActivity2$1
+com/example/bmicalculator/MainActivity4.java
+ com.example.bmicalculator.MainActivity4
+com/example/bmicalculator/MainActivity.java
+ com.example.bmicalculator.MainActivity
+ com.example.bmicalculator.MainActivity$1
+ com.example.bmicalculator.MainActivity$2
+com/example/bmicalculator/MainActivity3.java
+ com.example.bmicalculator.MainActivity3
+ com.example.bmicalculator.MainActivity3$1
+ com.example.bmicalculator.MainActivity3$2
+ com.example.bmicalculator.MainActivity3$3
+ com.example.bmicalculator.MainActivity3$4
